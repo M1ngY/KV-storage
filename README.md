@@ -11,7 +11,7 @@
 - muduo
 - boost
 - protoc
-- clang-format（可选）
+- clang-format（optional）
 
 **Installation Instructions**
 
